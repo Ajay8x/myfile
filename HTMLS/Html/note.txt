@@ -1,0 +1,14 @@
+button {
+   border: solid;
+   background: rgb(0, 0, 0);
+   border-radius: 15px;
+   padding: 6px;
+   color: rgb(15, 184, 0);
+   font-weight: bold;
+   font-size: 20px;
+   text-transform: uppercase;
+   border-color: rgb(249, 244, 250);
+   border-width: 2px;
+}
+
+kkk
